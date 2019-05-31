@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Hanoi University of Science and Technology
+  dates:  2017 - present
+  qualification: Application specialist 
   quote: >
-    Short institution or course description (optional)
+    
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I am a student of HEDSPI program. The hedspi program is a combination of SUN * and SOICT

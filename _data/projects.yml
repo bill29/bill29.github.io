@@ -1,9 +1,9 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Library Manager System
+  link: https://github.com/bill29/librarian
+  github: https://github.com/bill29/librarian
   quote: >
-    Short overview of the project (optional)
+    In order to prepare for job fair SUN *, My Team decided to make this product
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    This is a software that helps librarians easily manage books, readers, history of borrowing books and statistics.

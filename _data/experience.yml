@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: TMH-Tech Lab
+  link: www.tmh-techlab.vn
+  job_title: Intern Web Developer
+  dates:  July 2018 - August 2018
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    This is a good company, people are very happy and enthusiastic.

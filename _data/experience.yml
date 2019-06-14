@@ -1,10 +1,11 @@
 # Experience template
-- layout: left
+- layout: top-middle
   company: TMH-Tech Lab
   link: www.tmh-techlab.vn
   job_title: Intern Web Developer
   dates:  July 2018 - August 2018
   quote: >
-   
-  description: | # this will include new lines to allow paragraphs
-    This is a good company, people are very happy and enthusiastic.
+       This is a good company.
+        People are very happy and enthusiastic.
+#  description: | # this will include new lines to allow paragraphs
+ #   This is a good company, people are very happy and enthusiastic.

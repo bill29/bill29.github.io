@@ -4,9 +4,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Nguyen Minh Dan
-title: Hi, Nice to see you !
+#title: Hi, Nice to see you !
 email: nguyenmd.works@gmail.com
-website: nguyenmd.xyz
+website: nmdan.xyz
 
 # Social links
 github_username:  bill29
@@ -15,7 +15,7 @@ instagram_username: nm_zan
 # About Section
  #about_title: About Me 
 about_profile_image: images/d.jpg
-about_content: Hi , i am Dan. I am student of HUST . My major is Computer science. I am very funny and friendly. I love reading and playing sports. The club I like is Chelsea, my favorite athlete is Ronaldo, Nadal. You can connect my Goodreads account.
+about_content: Hi , i am Dan. I am student of HUST . My major is Computer science. I am very funny and friendly. I love reading and playing sports. The club I like is Chelsea, my favorite athlete is Ronaldo, Nadal. You can connect my [Goodreads account](https://www.goodreads.com/user/show/90677782-d-n-nguy-n).
 # Projects Section
 #projects_title: abc
 

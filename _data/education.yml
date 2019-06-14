@@ -1,9 +1,11 @@
 # Education Template
-- layout: left
+- layout: top-middle
   name: Hanoi University of Science and Technology
   dates:  2017 - present
   qualification: Application specialist 
   quote: >
-    
-  description: | # this will include new lines to allow paragraphs
-    I am a student of HEDSPI program. The hedspi program is a combination of SUN * and SOICT
+        I am a student of HEDSPI program. 
+        The hedspi program is a combination of SUN * and SOICT
+
+  #description: | # this will include new lines to allow paragraphs
+   # I am a student of HEDSPI program. The hedspi program is a combination of SUN * and SOICT

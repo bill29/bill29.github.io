@@ -4,6 +4,12 @@
   link: https://github.com/bill29/librarian
   github: https://github.com/bill29/librarian
   quote: >
-    In order to prepare for job fair SUN *, My Team decided to make this product
-  description: | # this will include new lines to allow paragraphs
-    This is a software that helps librarians easily manage books, readers, history of borrowing books and statistics.
+    This is a software that can be used in real-life libraries
+  #description: | # this will include new lines to allow paragraphs
+   # This is a software that helps librarians easily manage books, readers, history of borrowing books and statistics.
+- layout: top-middle
+  name: Algorithm GUI
+  link: https://github.com/bill29/Algorithm-Demo
+  github: https://github.com/bill29/Algorithm-Demo
+  quote: >
+    A project used to describe algorithms using GUI
